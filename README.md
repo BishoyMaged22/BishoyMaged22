@@ -1,56 +1,71 @@
-<h1 align="center">Hi 👋, I'm Bishoy Maged</h1>
-<h3 align="center">Cloud & Infrastructure Engineer | AWS & Linux Enthusiast</h3>
+<h1 align="left">Hi, I'm Bishoy Magdy Hanna 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bishoymaged22&label=Profile%20views&color=0e75b6&style=flat" alt="bishoymaged22" />
-</p>
+###
 
----
+<p align="left">Cloud & Infrastructure Engineer</p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bishoymaged22&theme=onedark&row=1&column=6" alt="bishoymaged22" />
-</p>
+###
 
----
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+</div>
 
-### 🌐 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/bishoy-maged22" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+###
+
+<div align="center">
+  <a href="bishoymaged2012@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://fb.com/bishoy.maged" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="bishoy22" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://instagram.com/bishoymaged22" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="www.linkedin.com/in/bishoy-maged22" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</p>
+  <a href="https://www.facebook.com/bisho.maged.96" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/bishoymaged22/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
----
+###
 
-### 💻 Languages and Tools
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://www.vmware.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg" alt="VMware" width="50" height="50"/></a>
-  <a href="https://www.splunk.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/splunk-2.svg" alt="Splunk" width="50" height="50"/></a>
-</p>
+<h2 align="left">About me</h2>
 
----
+###
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bishoymaged22&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<p align="left">🛠️ My Skills<br>- 🐧 **Linux Administration**: RHEL Admin I & II  <br>- ☁️ **Cloud Services**: AWS (Cloud Practitioner, Solutions Architect – Associate, Cloud Security)  <br>- 🔧 **Virtualization**: VMware vSphere [ICM]  <br>- 🌐 **Networking**: CCNA Routing & Switching  <br>- 📊 **Monitoring Tools**: Splunk, AppDynamics, SolarWinds  <br>- 🌩️ **Cloud Infrastructure**: Huawei HCIA  <br>- 🧠 **Generative AI & ML**: Amazon Bedrock, LLMs</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishoymaged22&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishoymaged22&theme=radical" alt="GitHub Streak" />
-</p>
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishoymaged22/bishoymaged22/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bishoymaged22/bishoymaged22/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bishoymaged22/bishoymaged22/output/pacman-contribution-graph.svg">
+</picture>
+
+###
