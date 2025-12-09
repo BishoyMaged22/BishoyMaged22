@@ -13,13 +13,13 @@
 ###
 
 <div align="center">
-  <a href="bishoymaged2012@gmail.com" target="_blank">
+  <a href="mailto:bishoymaged2012@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="bishoy22" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="www.linkedin.com/in/bishoy-maged22" target="_blank">
+  <a href="https://www.linkedin.com/in/bishoy-maged22" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/bisho.maged.96" target="_blank">
@@ -36,7 +36,16 @@
 
 ###
 
-<p align="left">🛠️ My Skills<br>- 🐧 **Linux Administration**: RHEL Admin I & II  <br>- ☁️ **Cloud Services**: AWS (Cloud Practitioner, Solutions Architect – Associate, Cloud Security)  <br>- 🔧 **Virtualization**: VMware vSphere [ICM]  <br>- 🌐 **Networking**: CCNA Routing & Switching  <br>- 📊 **Monitoring Tools**: Splunk, AppDynamics, SolarWinds  <br>- 🌩️ **Cloud Infrastructure**: Huawei HCIA  <br>- 🧠 **Generative AI & ML**: Amazon Bedrock, LLMs</p>
+<p align="left">
+🛠️ My Skills<br>
+- 🐧 <b>Linux Administration</b>: RHEL Admin I & II  <br>
+- ☁️ <b>Cloud Services</b>: AWS (Cloud Practitioner, Solutions Architect – Associate, Cloud Security)  <br>
+- 🔧 <b>Virtualization</b>: VMware vSphere [ICM]  <br>
+- 🌐 <b>Networking</b>: CCNA Routing & Switching  <br>
+- 📊 <b>Monitoring Tools</b>: Splunk, AppDynamics, SolarWinds  <br>
+- 🌩️ <b>Cloud Infrastructure</b>: Huawei HCIA  <br>
+- 🧠 <b>Generative AI & ML</b>: Amazon Bedrock, LLMs
+</p>
 
 ###
 
@@ -59,5 +68,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
 </div>
-
-###
