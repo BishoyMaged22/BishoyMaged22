@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Bishoy Magdy Hanna 👋</h1>
+<h1 align="left">Hi, I'm Bishoy Maged Hanna 👋</h1>
 
 ###
 
