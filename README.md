@@ -47,8 +47,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-###
+<h2 align="left">Contact me</h2>
 
 <div align="center">
   <a href="mailto:bishoymaged2012@gmail.com" target="_blank">
